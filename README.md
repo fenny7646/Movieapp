@@ -1,7 +1,7 @@
 # Web Application | Movie
 ---
 
-##### This is an Ecommerce Shopping Web Application, where users can search desired items, add them to wishlist or add to cart to checkout. Admins only can perform CRUD Ops of Products and its related images and also price. 
+##### This is an Movie Web Application, where users can search desired movies, Add them to Favourites. Only Users who add movies can perform CRUD Ops of that specific movie and its related images. 
 + HTML, CSS, Javascript as Frontend Technologies.
 + Python as Backend Programming language.
 + SQlite3 | Django-Admin as Database ORM console.
